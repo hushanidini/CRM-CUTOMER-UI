@@ -17,7 +17,7 @@ A modern, responsive React application for managing customer accounts with a cle
 
 ##  Tech Stack
 
-- **React 18** - UI library
+- **React 19** - UI library
 - **TypeScript** - Type safety
 - **Vite** - Build tool and dev server
 - **Tailwind CSS** - Styling
