@@ -1,11 +1,8 @@
 ## Description
 
 
-<!-- Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. -->
-
 ## Type of Change
 
-<!-- Please delete options that are not relevant. -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -14,7 +11,6 @@
 
 ## How Has This Been Tested?
 
-<!-- Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration. -->
 
 - [ ] Unit Tests
 - [ ] Integration Tests
@@ -34,15 +30,6 @@
 
 ## Commit Message Guidance
 
-This project uses [Conventional Commits](https://www.conventionalcommits.org/) for automated versioning and changelog generation. Please ensure your commits follow this format:
-
-```
-<type>(<optional scope>): <description>
-
-<optional body>
-
-<optional footer>
-```
 
 Types:
 - feat: A new feature
@@ -55,7 +42,3 @@ Types:
 - build: Changes that affect the build system or external dependencies
 - ci: Changes to our CI configuration files and scripts
 - chore: Other changes that don't modify src or test files
-
-
- (hushanid@gmail.com)
-For complete guidance, see [commit-convention.md](../docs/commit-convention.md). 
