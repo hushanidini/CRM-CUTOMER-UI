@@ -56,4 +56,6 @@ Types:
 - ci: Changes to our CI configuration files and scripts
 - chore: Other changes that don't modify src or test files
 
+
+ (hushanid@gmail.com)
 For complete guidance, see [commit-convention.md](../docs/commit-convention.md). 
